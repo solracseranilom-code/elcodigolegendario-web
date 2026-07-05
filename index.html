@@ -165,10 +165,10 @@
     transform-style: preserve-3d;
     animation: book-float-rotate 7s ease-in-out infinite;
     box-shadow: 
-      25px 30px 60px -15px rgba(0, 0, 0, 0.85),
-      0 0 60px rgba(233, 30, 99, 0.5);
+      0 40px 80px -20px rgba(0, 0, 0, 0.75),
+      0 0 60px rgba(233, 30, 99, 0.45);
     border-radius: 4px 14px 14px 4px;
-    background: var(--navy-mid);
+    /* SIN background: el fondo navy creaba el rectángulo oscuro visible */
     z-index: 1;
   }
   @keyframes book-float-rotate {
@@ -265,19 +265,13 @@
     transform-origin: bottom center;
     z-index: 2;
   }
-  /* BRILLO O DETALLE DE PORTADA (Lighting overlay ultra-suave que NO oscurece las letras) */
-  .book-cover-img::after {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: linear-gradient(135deg, rgba(255,255,255,0.12) 0%, transparent 30%, transparent 100%);
-    pointer-events: none;
-  }
+  /* BRILLO DE PORTADA — eliminado para no oscurecer la portada original */
+  /* .book-cover-img::after se deja sin contenido para no crear capa rect. oscura */
   /* Variante un poco más pequeña para la sección Solución */
   .book-3d.solution-mockup {
     width: 280px;
     height: 410px;
-    transform: rotateY(-18deg) rotateX(4deg);
+    /* hereda la animación flotante del padre, sin transform fijo */
   }
 
   /* ── QUIZ SECTION ── */
