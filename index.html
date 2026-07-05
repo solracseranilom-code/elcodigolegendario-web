@@ -135,22 +135,28 @@
     padding: 40px;
     margin: 10px 0;
     position: relative;
+    overflow: visible;
   }
-  /* AURA BRILLANTE TRASERA (Glowing Aura that makes the book stand out) */
+  /* AURA BRILLANTE TRASERA — sin cuadro visible, gradiente esférico puro */
   .book-3d-container::before {
     content: '';
     position: absolute;
     top: 50%; left: 50%;
-    width: 120%; height: 120%;
+    width: 85%; height: 75%;
     transform: translate(-50%, -50%);
-    background: radial-gradient(circle, rgba(233, 30, 99, 0.55) 0%, rgba(212, 175, 55, 0.45) 45%, rgba(25, 33, 53, 0) 75%);
-    filter: blur(40px);
+    background: radial-gradient(ellipse at center,
+      rgba(233, 30, 99, 0.60) 0%,
+      rgba(212, 175, 55, 0.35) 35%,
+      rgba(233, 30, 99, 0.10) 60%,
+      transparent 80%);
+    filter: blur(55px);
     z-index: 0;
+    border-radius: 50%;
     animation: aura-glow 4s ease-in-out infinite alternate;
   }
   @keyframes aura-glow {
-    0% { transform: translate(-50%, -50%) scale(0.92); opacity: 0.75; }
-    100% { transform: translate(-50%, -50%) scale(1.15); opacity: 1; filter: blur(50px); }
+    0%   { opacity: 0.70; transform: translate(-50%, -50%) scale(0.90); filter: blur(50px); }
+    100% { opacity: 1.00; transform: translate(-50%, -50%) scale(1.10); filter: blur(65px); }
   }
   .book-3d {
     position: relative;
@@ -651,7 +657,7 @@
       <div class="book-3d-container">
         <div class="book-3d">
           <div class="book-cover-img">
-            <img src="assets/book-cover.png" alt="El Código Legendario de la Salud - Edición Femenina" onerror="this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.style.fontSize='6rem'; this.parentElement.textContent='📗';">
+            <img src="assets/book-cover-real.png" alt="El Código Legendario de la Salud - Edición Femenina" onerror="this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.style.fontSize='6rem'; this.parentElement.textContent='📗';">
           </div>
           <div class="book-spine"><span class="book-spine-text">El Código Legendario</span></div>
           <div class="book-pages"></div>
@@ -829,7 +835,7 @@
       <div class="book-3d-container">
         <div class="book-3d solution-mockup">
           <div class="book-cover-img">
-            <img src="assets/book-cover.png" alt="El Código Legendario" onerror="this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.style.fontSize='5rem'; this.parentElement.textContent='📗';">
+            <img src="assets/book-cover-real.png" alt="El Código Legendario" onerror="this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.style.fontSize='5rem'; this.parentElement.textContent='📗';">
           </div>
           <div class="book-spine"><span class="book-spine-text">El Código Legendario</span></div>
           <div class="book-pages"></div>
