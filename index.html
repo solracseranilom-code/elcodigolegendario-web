@@ -160,15 +160,15 @@
   }
   .book-3d {
     position: relative;
-    width: 330px;
-    height: 470px;
+    /* Proporciones ajustadas a la imagen real de portada (1080x993 ≈ 1.09:1) */
+    width: 360px;
+    height: 330px;
     transform-style: preserve-3d;
     animation: book-float-rotate 7s ease-in-out infinite;
     box-shadow: 
       0 40px 80px -20px rgba(0, 0, 0, 0.75),
       0 0 60px rgba(233, 30, 99, 0.45);
     border-radius: 4px 14px 14px 4px;
-    /* SIN background: el fondo navy creaba el rectángulo oscuro visible */
     z-index: 1;
   }
   @keyframes book-float-rotate {
@@ -206,8 +206,8 @@
   }
   .book-cover-img img {
     width: 100%; height: 100%;
-    object-fit: cover;
-    object-position: center;
+    /* fill: muestra la imagen completa sin recortar ningún texto */
+    object-fit: fill;
     image-rendering: -webkit-optimize-contrast;
   }
   /* LOMO (Spine on the Left) */
@@ -269,9 +269,8 @@
   /* .book-cover-img::after se deja sin contenido para no crear capa rect. oscura */
   /* Variante un poco más pequeña para la sección Solución */
   .book-3d.solution-mockup {
-    width: 280px;
-    height: 410px;
-    /* hereda la animación flotante del padre, sin transform fijo */
+    width: 300px;
+    height: 276px;
   }
 
   /* ── QUIZ SECTION ── */
