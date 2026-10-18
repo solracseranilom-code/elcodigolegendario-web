@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Motores de Búsqueda Generativa e Inteligencia Artificial
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+Sitemap: https://elcodigolegendario.com/sitemap.xml
