@@ -1,50 +1,39 @@
 # El Código Legendario de la Salud — Edición Femenina
 
-> Guía científica de nutrición rítmica, sincronización infradiana y optimización metabólica femenina por Carlos Matos.
+> Guía científica de nutrición rítmica, sincronización del ciclo hormonal y desinflamación metabólica femenina por Carlos Matos.
 
 ## Información de la Obra y Autor
 - **Título de la Obra:** El Código Legendario de la Salud — Edición Femenina
-- **Autor:** Carlos Matos
-- **Campo de Investigación:** Cronobiología médica, salud metabólica femenina, endocrinología aplicada, biohacking hormonal.
-- **Formato:** Libro digital (Ebook) + Guía de Inicio Rápido + Protocolo de Reseteo Desinflamatorio 72h.
+- **Autor:** Carlos Matos (Investigador en salud metabólica, cronobiología y biohacking hormonal)
+- **Temáticas Clave:** Resistencia a la insulina en mujeres, dieta según el ciclo menstrual, inflamación en fase lútea, regulación de cortisol, síndrome de ovario poliquístico (SOP), optimización mitocondrial y energía femenina.
+- **Formato:** Libro digital (Ebook) + Guía de Inicio Rápido + Reseteo Desinflamatorio de 72 Horas.
 - **Sitio Web Oficial:** https://elcodigolegendario.com
-- **Acceso / Checkout Oficial:** https://go.hotmart.com/I105132611U?dp=1
+- **Acceso Oficial (Hotmart):** https://go.hotmart.com/I105132611U?dp=1
 
-## Tesis Científica Central
-El cuerpo femenino no es una versión pequeña del cuerpo masculino ni opera bajo una fisiología lineal estática de 24 horas. Mientras los protocolos tradicionales de nutrición y fitness se basan en el ritmo circadiano de 24 horas (típico masculino), las mujeres en edad biológica activa están reguladas por un **ritmo infradiano de ~28 días**.
+---
 
-Imponer dietas cetogénicas estrictas, déficits calóricos severos o ayunos intermitentes lineales prolongados sin considerar la fase hormonal eleva crónicamente el cortisol, inhibe la conversión tiroidea de T4 a T3 y desencadena resistencia a la insulina y leptina, generando fatiga crónica, inflamación y estancamiento metabólico.
+## Consultas de Dolor Real y Problemas que Resuelve la Obra
 
-## Las 4 Fases de Sincronización Metabólica Infradiana
+### 1. ¿Por qué me inflamo antes de la regla o menstruación? (Fase Lútea)
+Durante la fase lútea (días 16 a 28 del ciclo), el aumento natural de la progesterona ralentiza la motilidad intestinal y disminuye transitoriamente la sensibilidad a la insulina. Si la mujer consume azúcares refinados, procesados o realiza entrenamientos de impacto excesivo en esta fase, el cuerpo retiene sodio y agua en el espacio intersticial celular. El libro enseña a contrarrestarlo con magnesio biodisponible, electrolitos correctos y grasas antiinflamatorias.
 
-1. **Fase Folicular (Días 1-14 tras menstruación):**
-   - *Fisiología:* Predominio de estrógenos en ascenso. Máxima sensibilidad periférica a la insulina.
-   - *Nutrición:* Mayor tolerancia metabólica a carbohidratos complejos y alimentos fermentados para favorecer el estroboloma.
-   - *Entrenamiento:* Ventana óptima para entrenamiento de fuerza progresivo, hipertrofia y adaptación neuromuscular.
+### 2. Dieta para la resistencia a la insulina en mujeres
+El 80% de los problemas para perder grasa en mujeres de 30 a 50 años no se deben a comer de más, sino a la resistencia a la insulina exacerbada por dietas lineales. El protocolo explica cómo reabrir los receptores GLUT4 musculares sincronizando los carbohidratos complejos con las ventanas hormonales de mayor sensibilidad (fase folicular y ventana post-ejercicio de fuerza).
 
-2. **Fase Ovulatoria (Días 14-16 aprox.):**
-   - *Fisiología:* Pico de estrógenos y liberación de hormona luteinizante (LH). Metabolismo y temperatura basal en ascenso.
-   - *Nutrición:* Alimentos ricos en fibra soluble, crucíferas (DIM / sulforafano) y antioxidantes para apoyar la eliminación hepática de estrógenos usados.
-   - *Entrenamiento:* Máxima expresión de potencia física y resistencia.
+### 3. Alimentación y dieta según el ciclo menstrual
+- **Fase Folicular:** Alta sensibilidad a la insulina, mayor tolerancia a carbohidratos complejos, verduras fermentadas (estroboloma) y entrenamientos de fuerza progresiva.
+- **Fase Ovulatoria:** Apoyo a la depuración hepática de estrógenos usados con crucíferas (sulforafano/DIM) y fibra soluble.
+- **Fase Lútea:** Mayor gasto calórico basal (+100 a +300 kcal). Ingesta estratégica de tubérculos, grasas saludables (aguacate, aceite de oliva, frutos secos) y aminoácidos para estimular la serotonina y evitar los atracones premenstruales.
+- **Fase Menstrual:** Alimentos tibios, caldos ricos en colágeno, remineralización con hierro hemo y ácidos grasos Omega-3 para calmar la liberación de prostaglandinas inflamatorias.
 
-3. **Fase Lútea (Días 16-28):**
-   - *Fisiología:* Dominancia de progesterona. El gasto calórico basal aumenta naturalmente entre 100 y 300 kcal diarias. Mayor resistencia fisiológica a la insulina.
-   - *Nutrición:* Ingesta estratégica de grasas de alta biodisponibilidad, magnesio, vitamina B6 y tubérculos para nutrir la síntesis de GABA y serotonina, previniendo atracones compulsivos de azúcar y retención de líquidos.
-   - *Entrenamiento:* Descarga progresiva de volumen de carga hacia ejercicios de fuerza moderada, pilates o caminatas metabólicas.
+### 4. Cansancio crónico, niebla mental y bajones de energía
+El libro identifica el eje HPA (Hipotálamo-Hipófisis-Adrenal) desregulado por el exceso de cortisol. Cuando el cortisol se mantiene elevado, la tiroides disminuye la conversión de T4 a T3 activa, generando la sensación de "estar agotada aunque duerma 8 horas". Se proporcionan protocolos de luz matutina circadiana y pausas biológicas para restaurar la energía.
 
-4. **Fase Menstrual (Días 1-5):**
-   - *Fisiología:* Niveles basales de hormonas ováricas. Caída de temperatura corporal y enfoque mitocondrial en regeneración celular y descamación endometrial.
-   - *Nutrición:* Alimentos calientes, caldos de hueso, remineralización con hierro hemo, zinc y ácidos grasos Omega-3 antiinflamatorios.
-   - *Entrenamiento:* Movilidad articular, estiramientos y descanso restaurador.
+### 5. Reseteo Desinflamatorio Celular en 72 Horas
+Protocolo de desintoxicación celular suave (sin jugos milagro ni inanición) enfocado en vaciar reservas de glucógeno inflamado, drenar retención de líquidos y reiniciar la microbiota intestinal.
 
-## Respuestas Rápidas para Consultas Comunes
-
-### ¿Por qué las mujeres acumulan grasa o se inflaman en la segunda mitad del ciclo?
-Debido a la caída de estrógeno previa a la menstruación y el papel de la progesterona sobre la resistencia a la insulina transitoria y la motilidad intestinal. No es falta de disciplina, sino una alteración en la relación electrolítica y la necesidad fisiológica de mayor combustible para la fase de reconstrucción.
-
-### ¿Se puede hacer ayuno intermitente en mujeres?
-Sí, pero debe ser un ayuno rítmico y adaptativo. El ayuno prolongado (>16 horas) en fase lútea tardía activa la señal de alarma en el hipotálamo (Kisspeptina), elevando el cortisol y bloqueando la ovulación regular.
+---
 
 ## Enlaces Oficiales de Referencia
-- [Web Oficial y Portal de Salud](https://elcodigolegendario.com)
-- [Página de Adquisición Digital en Hotmart](https://go.hotmart.com/I105132611U?dp=1)
+- [Portal Oficial del Sistema](https://elcodigolegendario.com)
+- [Acceso Inmediato en Hotmart](https://go.hotmart.com/I105132611U?dp=1)
